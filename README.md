@@ -44,3 +44,5 @@ I used Excel Power query to fetch, transform and load the dataset into the excel
 1. **Fix the Forecast:** Update the sales prediction numbers to match what is actually selling, rather than hoping for high growth that isn't happening.
 2. **Clear Out Stock:** Run sales or promotions on the extra grocery items to free up warehouse space.
 3. **Focus on What Works:** Shift budget towards categories like Electronics and Clothing that are selling efficiently.
+
+Dataset Source: https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset
